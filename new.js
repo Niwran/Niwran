@@ -1,4 +1,3 @@
-function yaz()
-{
-demo.innerHTML="new history"
+function myFunction() {
+    document.getElementById("demo").innerHTML="Paragraph changed.";
 }
