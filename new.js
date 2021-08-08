@@ -1,4 +1,4 @@
 function yaz()
 {
-alert("new message")
+demo.innerHTML="new history"
 }
